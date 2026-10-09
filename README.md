@@ -28,7 +28,29 @@ macOS + Windows，离线运行，文件不上传。
 </td>
 </tr>
 <tr>
-<td width="120" align="center"><h1>🐶</h1></td>
+<td align="center"><h1>🤖</h1></td>
+<td>
+
+### [yang-agent · 内容智能体](https://github.com/Youkou970701/yang-agent)
+粘一个抖音链接 → 拆解爆款 → 出选题 → 写口播稿 → 导出分镜素材包。自带 key，Cloudflare Worker 一条命令上线。
+
+`React` `Vite` `Cloudflare Workers`
+
+</td>
+</tr>
+<tr>
+<td align="center"><h1>🧳</h1></td>
+<td>
+
+### [一起游 · 结伴旅行小程序](https://github.com/Youkou970701/travel-together-miniapp)
+一次旅行一个房间：共同排行程、记账自动算「谁该给谁多少钱」、投票、收藏攻略。微信云开发，无需服务器。
+
+`微信小程序` `云开发`
+
+</td>
+</tr>
+<tr>
+<td align="center"><h1>🐶</h1></td>
 <td>
 
 ### [PawLove](https://github.com/Youkou970701/pawlove)
@@ -40,11 +62,14 @@ macOS + Windows，离线运行，文件不上传。
 </tr>
 </table>
 
+**小玩意**：[彩票观察选号](https://github.com/Youkou970701/lottery-lab)（[在线](https://xiaoyang-caiyansuo.pages.dev)）· [德扑训练器](https://github.com/Youkou970701/poker-trainer) · [今日运势卡](https://github.com/Youkou970701/daily-fortune-demo)
+
 ## 🔧 我在用的
 
 - 前端：React · Vite · Tailwind CSS
 - 后端：Node.js · Express · Socket.io
 - 桌面：Electron（含 GitHub Actions 自动打 macOS / Windows 安装包）
+- 部署：Cloudflare Workers / Pages · Vercel · 微信云开发
 - AI 辅助开发：日常和 [Claude Code](https://claude.com/claude-code) 一起写代码
 
 ## 📫 找我
