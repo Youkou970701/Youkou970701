@@ -28,6 +28,18 @@ macOS + Windows，离线运行，文件不上传。
 </td>
 </tr>
 <tr>
+<td align="center"><img src="https://raw.githubusercontent.com/Youkou970701/id-photo-tool/main/build/icon.png" width="84" alt=""></td>
+<td>
+
+### [报名照助手](https://github.com/Youkou970701/id-photo-tool)
+拖进一张照片，自动裁剪、换底色、压进报名系统要求的尺寸和 KB 区间。内置注会、教资等有官方出处的预设，达不到要求会直说，不会假装成功。
+macOS + Windows，人脸识别和抠图都在本机跑，照片不上传。
+
+`Electron` `ONNX Runtime` `sharp` · [⬇ 下载](https://github.com/Youkou970701/id-photo-tool/releases/latest)
+
+</td>
+</tr>
+<tr>
 <td align="center"><h1>🤖</h1></td>
 <td>
 
