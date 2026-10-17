@@ -2,48 +2,78 @@
 
 # Hi，我是 Youkou 👋
 
-**做小而好用的工具，把重复的事交给程序。**
+**做小而好用的工具，把重复的事交给程序。**<br>
+<sub>I build small, useful tools that take the repetitive work off your hands.</sub><br>
+<sub>小さくて役に立つツールを作り、繰り返しの作業をプログラムに任せています。</sub>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848f?style=flat-square&logo=electron&logoColor=white)
+<br>
+
+[![Compress Tool](https://img.shields.io/github/v/release/Youkou970701/compress-tool?style=flat-square&label=压缩工具&color=5b6cff)](https://github.com/Youkou970701/compress-tool/releases/latest)
+[![ID Photo](https://img.shields.io/github/v/release/Youkou970701/id-photo-tool?style=flat-square&label=报名照助手&color=2ea44f)](https://github.com/Youkou970701/id-photo-tool/releases/latest)
+[![Poker Trainer](https://img.shields.io/badge/德扑训练器-在线体验-e0b04a?style=flat-square)](https://youkou970701.github.io/poker-trainer/)
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,electron,tailwind,cloudflare,githubactions&theme=light" alt="技术栈">
 
 </div>
 
-## 📦 项目
+<br>
+
+## 🛠 桌面工具
+
+全部**离线运行、文件不上传**，macOS + Windows 双平台安装包，推 tag 由 GitHub Actions 自动出包。
 
 <table>
 <tr>
-<td width="120" align="center"><img src="https://raw.githubusercontent.com/Youkou970701/compress-tool/main/build/icon.png" width="84" alt=""></td>
-<td>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Youkou970701/compress-tool/main/build/icon.png" width="56" align="right" alt="">
 
 ### [压缩工具](https://github.com/Youkou970701/compress-tool)
-拖进去就压小。图片 / 视频 / PDF / PPT·Word·Excel / ZIP 一站式本地压缩，支持「压到 X MB 以内」。
-macOS + Windows，离线运行，文件不上传。
 
-`Electron` `ffmpeg` `Ghostscript` · [⬇ 下载](https://github.com/Youkou970701/compress-tool/releases/latest)
+拖进去就压小。图片 / 视频 / PDF / PPT·Word·Excel / ZIP 一站式本地压缩，支持「压到 X MB 以内」，自动找刚好够用的那一档。
+
+`Electron` `ffmpeg` `Ghostscript`<br>
+🌐 中文 · English · 日本語<br>
+**[⬇ 下载](https://github.com/Youkou970701/compress-tool/releases/latest)**
 
 </td>
-</tr>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/Youkou970701/id-photo-tool/main/build/icon.png" width="84" alt=""></td>
-<td>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Youkou970701/id-photo-tool/main/build/icon.png" width="56" align="right" alt="">
 
 ### [报名照助手](https://github.com/Youkou970701/id-photo-tool)
-拖进一张照片，自动裁剪、换底色、压进报名系统要求的尺寸和 KB 区间。内置注会、教资等有官方出处的预设，达不到要求会直说，不会假装成功。
-macOS + Windows，人脸识别和抠图都在本机跑，照片不上传。
 
-`Electron` `ONNX Runtime` `sharp` · [⬇ 下载](https://github.com/Youkou970701/id-photo-tool/releases/latest)
+拖进一张照片，自动裁剪、换底色、压进报名系统要求的尺寸和 KB 区间。预设都有官方出处，达不到要求会直说，不会假装成功。
+
+`Electron` `ONNX Runtime` `sharp`<br>
+🔒 人脸识别和抠图都在本机<br>
+**[⬇ 下载](https://github.com/Youkou970701/id-photo-tool/releases/latest)**
 
 </td>
 </tr>
-<tr>
-<td align="center"><h1>🤖</h1></td>
-<td>
+</table>
 
-### [yang-agent · 内容智能体](https://github.com/Youkou970701/yang-agent)
+## 🌐 网页与小程序
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ♠️ [德扑训练器](https://github.com/Youkou970701/poker-trainer)
+
+单个 HTML 文件的德州扑克练习册：底池赔率、翻前开池、短码推挤、范围表、术语闪卡。手机打开就能刷题。
+
+`HTML` `零依赖`<br>
+🌐 中文 · English · 日本語<br>
+**[▶ 在线体验](https://youkou970701.github.io/poker-trainer/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [yang-agent · 内容智能体](https://github.com/Youkou970701/yang-agent)
+
 粘一个抖音链接 → 拆解爆款 → 出选题 → 写口播稿 → 导出分镜素材包。自带 key，Cloudflare Worker 一条命令上线。
 
 `React` `Vite` `Cloudflare Workers`
@@ -51,39 +81,69 @@ macOS + Windows，人脸识别和抠图都在本机跑，照片不上传。
 </td>
 </tr>
 <tr>
-<td align="center"><h1>🧳</h1></td>
-<td>
+<td width="50%" valign="top">
 
-### [一起游 · 结伴旅行小程序](https://github.com/Youkou970701/travel-together-miniapp)
+### 🧳 [一起游 · 结伴旅行小程序](https://github.com/Youkou970701/travel-together-miniapp)
+
 一次旅行一个房间：共同排行程、记账自动算「谁该给谁多少钱」、投票、收藏攻略。微信云开发，无需服务器。
 
 `微信小程序` `云开发`
 
 </td>
-</tr>
-<tr>
-<td align="center"><h1>🐶</h1></td>
-<td>
+<td width="50%" valign="top">
 
-### [PawLove](https://github.com/Youkou970701/pawlove)
+### 🐶 [PawLove](https://github.com/Youkou970701/pawlove)
+
 情侣双人养宠 Web App：两个人共养一只虚拟小狗，从一颗蛋开始孵化，实时同步。
 
-`React` `TypeScript` `Socket.io` · [在线体验](https://pawlove.vercel.app)
+`React` `TypeScript` `Socket.io`<br>
+**[▶ 在线体验](https://pawlove.vercel.app)**
 
 </td>
 </tr>
 </table>
 
-**小玩意**：[彩票观察选号](https://github.com/Youkou970701/lottery-lab)（[在线](https://xiaoyang-caiyansuo.pages.dev)）· [德扑训练器](https://github.com/Youkou970701/poker-trainer) · [今日运势卡](https://github.com/Youkou970701/daily-fortune-demo)
+**🎲 小玩意**：[彩票观察选号](https://github.com/Youkou970701/lottery-lab)（[在线](https://xiaoyang-caiyansuo.pages.dev)）· [今日运势卡](https://github.com/Youkou970701/daily-fortune-demo)
 
 ## 🔧 我在用的
 
-- 前端：React · Vite · Tailwind CSS
-- 后端：Node.js · Express · Socket.io
-- 桌面：Electron（含 GitHub Actions 自动打 macOS / Windows 安装包）
-- 部署：Cloudflare Workers / Pages · Vercel · 微信云开发
-- AI 辅助开发：日常和 [Claude Code](https://claude.com/claude-code) 一起写代码
+| 方向 | 在用的 |
+| --- | --- |
+| 前端 | React · Vite · Tailwind CSS |
+| 后端 | Node.js · Express · Socket.io |
+| 桌面 | Electron，GitHub Actions 自动打 macOS / Windows 安装包 |
+| 本地 AI | ONNX Runtime，模型随包内置、完全离线 |
+| 部署 | Cloudflare Workers / Pages · GitHub Pages · Vercel · 微信云开发 |
+| 协作 | 日常和 [Claude Code](https://claude.com/claude-code) 一起写代码 |
+
+<details>
+<summary><b>🇬🇧 English</b></summary>
+
+<br>
+
+I build small desktop and web tools that solve one annoying problem well. Everything runs locally where possible — your files never leave your computer.
+
+- **[Compression Tool](https://github.com/Youkou970701/compress-tool)**: drop in images, videos, PDFs, Office files or ZIPs and get them under a target size (e.g. "under 50 MB"). Offline, macOS + Windows, English / 日本語 / 中文 UI. **[Download](https://github.com/Youkou970701/compress-tool/releases/latest)**
+- **[Poker Trainer](https://github.com/Youkou970701/poker-trainer)**: a single-file Texas Hold'em drill book — pot odds, preflop opens, push/fold, range chart, glossary flashcards. **[Play online](https://youkou970701.github.io/poker-trainer/)**
+
+Issues and suggestions are welcome in any language.
+
+</details>
+
+<details>
+<summary><b>🇯🇵 日本語</b></summary>
+
+<br>
+
+ひとつの面倒な問題をきちんと解決する、小さなデスクトップ／Web ツールを作っています。できるだけローカルで動かし、ファイルを外部に送りません。
+
+- **[圧縮ツール](https://github.com/Youkou970701/compress-tool/blob/main/README.ja.md)**：画像・動画・PDF・Office・ZIP をドラッグするだけで、「50 MB 以下」などの目標サイズまで小さくします。オフライン動作、macOS + Windows、日本語 UI 対応。**[ダウンロード](https://github.com/Youkou970701/compress-tool/releases/latest)**
+- **[ポーカートレーナー](https://github.com/Youkou970701/poker-trainer/blob/main/README.ja.md)**：HTML ファイル 1 つのテキサスホールデム問題集。ポットオッズ、プリフロップのオープン、プッシュ／フォールド、レンジ表、用語フラッシュカード。**[オンラインで試す](https://youkou970701.github.io/poker-trainer/)**
+
+Issue やご意見は日本語でも歓迎です。
+
+</details>
 
 ## 📫 找我
 
-欢迎在项目里提 [Issue](https://github.com/Youkou970701/compress-tool/issues)，用着不顺手的地方都可以告诉我。
+用着不顺手的地方，欢迎到对应项目里提 Issue，中文、English、日本語都可以。
