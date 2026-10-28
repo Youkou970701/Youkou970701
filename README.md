@@ -10,6 +10,7 @@
 
 [![Compress Tool](https://img.shields.io/github/v/release/Youkou970701/compress-tool?style=flat-square&label=压缩工具&color=5b6cff)](https://github.com/Youkou970701/compress-tool/releases/latest)
 [![ID Photo](https://img.shields.io/github/v/release/Youkou970701/id-photo-tool?style=flat-square&label=报名照助手&color=2ea44f)](https://github.com/Youkou970701/id-photo-tool/releases/latest)
+[![人生签](https://img.shields.io/badge/人生签-在线玩-d9412f?style=flat-square)](https://renshengqian.pages.dev)
 [![Poker Trainer](https://img.shields.io/badge/德扑训练器-在线体验-e0b04a?style=flat-square)](https://youkou970701.github.io/poker-trainer/)
 
 <br>
@@ -58,6 +59,19 @@
 ## 🌐 网页与小程序
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎴 [人生签 · 中国版](https://github.com/Youkou970701/renshengqian)
+
+出生是一张签：按各省真实出生人数，随机出生在中国某个省、某个城乡、某种家境，再按公开统计一年一年过完一生。中考分流、高考、考研考公、相亲彩礼、买房、35 岁、父母老去；65 个分支剧本，48 种职业，关键关口由「命运骰子」亮出概率再裁决。每个数都标了出处，10 万局模拟对照真实统计校准。
+
+`React` `Vite` `Cloudflare Pages` `纯前端`<br>
+📱 手机电脑都能玩，人生记录只存在本机<br>
+**[▶ 在线玩](https://renshengqian.pages.dev)**
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -124,6 +138,7 @@
 I build small desktop and web tools that solve one annoying problem well. Everything runs locally where possible — your files never leave your computer.
 
 - **[Compression Tool](https://github.com/Youkou970701/compress-tool)**: drop in images, videos, PDFs, Office files or ZIPs and get them under a target size (e.g. "under 50 MB"). Offline, macOS + Windows, English / 日本語 / 中文 UI. **[Download](https://github.com/Youkou970701/compress-tool/releases/latest)**
+- **[Life Lottery · China](https://github.com/Youkou970701/renshengqian)** (人生签): you are born into a random Chinese province, urban or rural, rich or poor, weighted by real birth counts, then live a whole life year by year on public statistics — exams, jobs, marriage, housing, ageing parents. Chinese only. **[Play online](https://renshengqian.pages.dev)**
 - **[Poker Trainer](https://github.com/Youkou970701/poker-trainer)**: a single-file Texas Hold'em drill book — pot odds, preflop opens, push/fold, range chart, glossary flashcards. **[Play online](https://youkou970701.github.io/poker-trainer/)**
 
 Issues and suggestions are welcome in any language.
@@ -138,6 +153,7 @@ Issues and suggestions are welcome in any language.
 ひとつの面倒な問題をきちんと解決する、小さなデスクトップ／Web ツールを作っています。できるだけローカルで動かし、ファイルを外部に送りません。
 
 - **[圧縮ツール](https://github.com/Youkou970701/compress-tool/blob/main/README.ja.md)**：画像・動画・PDF・Office・ZIP をドラッグするだけで、「50 MB 以下」などの目標サイズまで小さくします。オフライン動作、macOS + Windows、日本語 UI 対応。**[ダウンロード](https://github.com/Youkou970701/compress-tool/releases/latest)**
+- **[人生签（人生くじ・中国版）](https://github.com/Youkou970701/renshengqian)**：各省の実際の出生数に基づいて中国のどこかの家庭にランダムに生まれ、公開統計に沿って一年ずつ人生を送るシミュレーション。中国語のみ。**[オンラインで遊ぶ](https://renshengqian.pages.dev)**
 - **[ポーカートレーナー](https://github.com/Youkou970701/poker-trainer/blob/main/README.ja.md)**：HTML ファイル 1 つのテキサスホールデム問題集。ポットオッズ、プリフロップのオープン、プッシュ／フォールド、レンジ表、用語フラッシュカード。**[オンラインで試す](https://youkou970701.github.io/poker-trainer/)**
 
 Issue やご意見は日本語でも歓迎です。
