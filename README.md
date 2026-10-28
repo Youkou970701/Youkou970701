@@ -128,7 +128,7 @@
 | 桌面 | Electron，GitHub Actions 自动打 macOS / Windows 安装包 |
 | 本地 AI | ONNX Runtime，模型随包内置、完全离线 |
 | 部署 | Cloudflare Workers / Pages · GitHub Pages · Vercel · 微信云开发 |
-| 协作 | 日常和 [Claude Code](https://claude.com/claude-code) 一起写代码 |
+| 协作 | 日常和 [Claude Code](https://claude.com/claude-code) · [Codex](https://openai.com/codex/) 一起写代码 |
 
 <details>
 <summary><b>🇬🇧 English</b></summary>
